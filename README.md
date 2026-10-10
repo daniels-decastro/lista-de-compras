@@ -16,7 +16,6 @@ npx expo start
 ```
 
 Pressione `w` para abrir no navegador, `a` para o emulador Android, ou leia o QR code com o Expo Go.
-
 ## Prints
 
 | Lista vazia | 1 item | 5 itens |
