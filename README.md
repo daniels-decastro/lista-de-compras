@@ -8,14 +8,6 @@ App React Native de lista de compras simples.
 - Botão **Adicionar** que insere o item na lista com `useState`, criando um array novo com o spread operator (`[...itens, novoItem]`), sem `.push()`
 - Lista exibida com `FlatList`
 
-## Como rodar
-
-```bash
-npm install
-npx expo start
-```
-
-Pressione `w` para abrir no navegador, `a` para o emulador Android, ou leia o QR code com o Expo Go.
 ## Prints
 
 | Lista vazia | 1 item | 5 itens |
