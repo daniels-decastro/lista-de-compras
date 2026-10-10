@@ -1,6 +1,7 @@
-# Lista de Compras (CheckPoint 2)
+# Lista de Compras (CheckPoint 2) - Cross-platform application development
+Daniel Silva de Castro - 2CCPS 
 
-App React Native (Expo) de lista de compras simples, feito para o CheckPoint 2 de Cross-Platform Application Development.
+App React Native de lista de compras simples.
 
 - Título do app
 - `TextInput` para digitar um novo item
